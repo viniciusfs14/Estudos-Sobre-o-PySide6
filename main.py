@@ -14,7 +14,7 @@ class MainWindow(QMainWindow):
         
         self.show()
         
-    def toggle_buttom(self):
+    def toggle_buttom(self): #sim
         
         menu_width = self.ui.left_menu.width()
         width = 50
